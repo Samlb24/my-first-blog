@@ -26,6 +26,7 @@ SECRET_KEY = 'x7zyrj*&wd$sh#!@$e^bgovxfsj)fri_d5q4@hhjrozmtd6@3x'
 DEBUG = True
 
 
+
 # Application definition
 
 INSTALLED_APPS = [
